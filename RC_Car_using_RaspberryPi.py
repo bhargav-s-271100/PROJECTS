@@ -67,7 +67,7 @@ try:
             GPIO.output(I3, GPIO.HIGH)
             GPIO.output(I4, GPIO.LOW)
 
-        elif char == 10:
+        elif char == ord('s'):
             GPIO.output(I1, GPIO.LOW)
             GPIO.output(I2, GPIO.LOW)
             GPIO.output(I3, GPIO.LOW)

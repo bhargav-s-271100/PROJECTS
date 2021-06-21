@@ -1,0 +1,35 @@
+Vehicle 1 broadcasted Bad Road with priority 1
+Vehicle 1 broadcasted Slow Down with priority 3
+Vehicle 2 broadcasted Road Closed with priority 2
+Vehicle 4 broadcasted Bad Road with priority 1
+Vehicle 0 received Bad Road from vehicle 4 
+Vehicle 1 received Bad Road from vehicle 4 
+Vehicle 4 broadcasted Slow Down with priority 3
+Vehicle 0 discarded Slow Down from vehicle 4
+Vehicle 1 discarded Slow Down from vehicle 4
+Vehicle 0 broadcasted Bad Road with priority 1
+Vehicle 1 received Bad Road from vehicle 0 
+Vehicle 4 received Bad Road from vehicle 0 
+Vehicle 0 broadcasted Slow Down with priority 3
+Vehicle 1 discarded Slow Down from vehicle 0
+Vehicle 4 received Slow Down from vehicle 0 
+Vehicle 3 broadcasted Bad Road with priority 1
+Vehicle 0 received Bad Road from vehicle 3 
+Vehicle 1 received Bad Road from vehicle 3 
+Vehicle 2 broadcasted Bad Road with priority 1
+Vehicle 2 broadcasted Slow Down with priority 3
+Vehicle 4 broadcasted Road Closed with priority 2
+Vehicle 0 broadcasted Weather with priority 0
+Vehicle 1 broadcasted Weather with priority 0
+Vehicle 2 broadcasted Weather with priority 0
+Vehicle 3 received Weather from vehicle 0 
+Vehicle 3 broadcasted Weather with priority 0
+Vehicle 4 broadcasted Weather with priority 0
+Vehicle 0 received Weather from vehicle 3 
+Vehicle 0 broadcasted Road Closed with priority 2
+Vehicle 0 broadcasted Bad Road with priority 1
+Vehicle 3 received Bad Road from vehicle 0 
+Vehicle 0 broadcasted Slow Down with priority 3
+Vehicle 3 received Slow Down from vehicle 0 
+Vehicle 1 broadcasted Bad Road with priority 1
+Vehicle 1 broadcasted Slow Down with priority 3
